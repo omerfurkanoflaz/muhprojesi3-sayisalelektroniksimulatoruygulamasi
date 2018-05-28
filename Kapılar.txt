@@ -1,0 +1,8 @@
+2 Girisli AND Kapisi
+3 Girisli AND Kapisi
+2 Girisli OR Kapisi
+3 Girisli OR Kapisi
+NOT
+2 Girisli XOR Kapisi
+INPUT
+OUTPUT
